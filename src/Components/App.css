@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#image1 {
+  height: 250px;
+  width: 200px;
+  border-radius: 10px;
+}
+
+#image2 {
+  height: 20px;
+  width: 20px;
+  display: inline;
+}
+
+#set1 {
+  margin: 40px;
+  height: 250px;
+}
+
+header {
+  padding: 20px 0px 20px 0px;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+
+#text {
+  width: 500px;
+  margin-left: 220px;
+  margin-top: -230px;
+  margin-bottom: 11px;
+}
+
+#text>div {
+  margin-left: 26px;
+  margin-top: -26px;
+  width: 300px;
+}
+
+#text>div>a {
+  margin-left: 20px;
+  color: gray;
+}
+
+hr {
+  margin-top: 70px;
+}
+
+#earth{
+  width: 20px;
+  margin-top: 10px;
+}
